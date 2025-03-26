@@ -1,0 +1,4 @@
+requests==2.31.0  # Bilinen güvenlik açıkları kapatılmış versiyon
+cryptography==42.0.5
+pyjwt==2.8.0
+python-dotenv==1.0.0
